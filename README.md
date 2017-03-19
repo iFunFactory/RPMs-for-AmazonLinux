@@ -22,3 +22,7 @@ This repository is to store RPM files for Amazon Linux (and GameLift).
 ## protobuf
 * Original repo: https://github.com/google/protobuf
 * Patches geneerating RPMS: https://github.com/dkmoon/protobuf
+
+## GameLift CPP Server SDK
+* Original repo: https://aws.amazon.com/gamelift/
+* Patches geneerating RPMS: https://github.com/iFunFactory/GameLift-Cpp-ServerSDK
