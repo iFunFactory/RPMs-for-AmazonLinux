@@ -22,3 +22,10 @@ This repository is to store RPM files for Amazon Linux (and GameLift).
 * RPM: https://github.com/iFunFactory/RPMs-for-AmazonLinux/blob/master/socketio-client-cpp-1.6.0-fd32db0.amzn1.x86_64.rpm
 * Original repo: https://github.com/socketio/socket.io-client-cpp
 * Patches generating RPMs: https://github.com/dkmoon/socket.io-client-cpp
+
+## protobuf
+* RPM: https://github.com/iFunFactory/RPMs-for-AmazonLinux/blob/master/protobuf-3.1.0-34d2784.amzn1.x86_64.rpm
+* RPM: https://github.com/iFunFactory/RPMs-for-AmazonLinux/blob/master/protobuf-compiler-3.1.0-34d2784.amzn1.x86_64.rpm
+* RPM: https://github.com/iFunFactory/RPMs-for-AmazonLinux/blob/master/protobuf-devel-3.1.0-34d2784.amzn1.x86_64.rpm
+* Original repo: https://github.com/google/protobuf
+* Patches geneerating RPMS: https://github.com/dkmoon/protobuf
